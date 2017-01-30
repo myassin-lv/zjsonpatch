@@ -57,7 +57,7 @@ public final class JsonDiff {
         /**
          * Merging remove & add to move operation
          */
-        compactDiffs(diffs);
+        // compactDiffs(diffs);
 
         return getJsonNodes(diffs);
     }
